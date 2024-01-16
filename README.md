@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**MCardosoLoria/MCardosoLoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on future prospects
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on Freelancing projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 AWS and Azure certified cloud user
+
+🤩 Azure SQL enthusiast
+
+💬 Ask me about graduating from Ai Core
+
+📫 How to reach me: https://www.linkedin.com/in/maurizio-cardoso-loria-441895195/
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I lived in Brazil for 7 years as a kid
+
+🤔 Like what I'm doing? You can offer me a coffee
+
+
