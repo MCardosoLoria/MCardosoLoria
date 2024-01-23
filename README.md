@@ -14,8 +14,6 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I lived in Brazil for 7 years as a kid
-
 🤔 Like what I'm doing? You can offer me a coffee
 
 
